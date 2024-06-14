@@ -775,7 +775,7 @@ a.fa.fa-angle-down:focus {
     height: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #00009C;
+    background: #09134e;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
@@ -1267,7 +1267,7 @@ img#nu-logo {
 /* ======= RESUME ======= */
 
 #resume {
-    background: url(../img/laptop-blur.jpg);
+    background: url(../img/bg3.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
